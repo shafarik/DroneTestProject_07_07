@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\basepickupactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\droneproject_07_07editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\droneproject_07_07\\definitions.droneproject_07_07.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\basepickupactor.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\basepickupactor.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\dronecharacter.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\dronecharacter.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

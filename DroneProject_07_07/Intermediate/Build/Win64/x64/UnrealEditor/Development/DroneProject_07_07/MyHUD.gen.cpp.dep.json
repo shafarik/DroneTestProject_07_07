@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\myhud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\droneproject_07_07editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\droneproject_07_07\\definitions.droneproject_07_07.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\myhud.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\myhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

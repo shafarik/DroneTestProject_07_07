@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\myammopickupactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\droneproject_07_07editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\droneproject_07_07\\definitions.droneproject_07_07.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\myammopickupactor.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\basepickupactor.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\basepickupactor.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\myammopickupactor.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\dronecharacter.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\dronecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

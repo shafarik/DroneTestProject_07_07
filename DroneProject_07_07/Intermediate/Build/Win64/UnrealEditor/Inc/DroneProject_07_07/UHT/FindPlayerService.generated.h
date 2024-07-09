@@ -1,0 +1,66 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "FindPlayerService.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DRONEPROJECT_07_07_FindPlayerService_generated_h
+#error "FindPlayerService.generated.h already included, missing '#pragma once' in FindPlayerService.h"
+#endif
+#define DRONEPROJECT_07_07_FindPlayerService_generated_h
+
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_SPARSE_DATA
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_ACCESSORS
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFindPlayerService(); \
+	friend struct Z_Construct_UClass_UFindPlayerService_Statics; \
+public: \
+	DECLARE_CLASS(UFindPlayerService, UBTService, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DroneProject_07_07"), NO_API) \
+	DECLARE_SERIALIZER(UFindPlayerService)
+
+
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFindPlayerService(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFindPlayerService(UFindPlayerService&&); \
+	NO_API UFindPlayerService(const UFindPlayerService&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFindPlayerService); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFindPlayerService); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFindPlayerService) \
+	NO_API virtual ~UFindPlayerService();
+
+
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_12_PROLOG
+#define FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_SPARSE_DATA \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_ACCESSORS \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_INCLASS_NO_PURE_DECLS \
+	FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DRONEPROJECT_07_07_API UClass* StaticClass<class UFindPlayerService>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_DroneProject_07_07_Source_DroneProject_07_07_FindPlayerService_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

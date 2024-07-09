@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\dronecharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\droneproject_07_07editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\droneproject_07_07\\definitions.droneproject_07_07.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\dronecharacter.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\dronecharacter.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\floatingpawnmovement.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\floatingpawnmovement.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\projectile.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\projectile.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\healthcomponent.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\healthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

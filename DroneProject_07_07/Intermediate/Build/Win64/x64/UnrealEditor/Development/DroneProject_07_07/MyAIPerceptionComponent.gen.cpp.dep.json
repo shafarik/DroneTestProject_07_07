@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\myaiperceptioncomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\droneproject_07_07editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\droneproject_07_07\\definitions.droneproject_07_07.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\source\\droneproject_07_07\\myaiperceptioncomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptioncomponent.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptiontypes.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\ai\\navigationsystemconfig.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationsystemconfig.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptiontypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\perception\\aisense.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aisense.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionsystem.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\aisubsystem.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\classes\\aisystem.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\ai\\aisystembase.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\aisystembase.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aisystem.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aisubsystem.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionsystem.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptioncomponent.generated.h",
+            "c:\\users\\alex\\desktop\\droneproject_07_07\\intermediate\\build\\win64\\unrealeditor\\inc\\droneproject_07_07\\uht\\myaiperceptioncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
